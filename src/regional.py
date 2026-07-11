@@ -141,6 +141,18 @@ class RegionLottery:
             return
         frames.dump_frames(self._raw_data, self._2_digits_data, self._sparse_data, self.code)
 
+    def get_raw_data(self) -> pd.DataFrame:
+        return self._raw_data
+
+    def get_2_digits_data(self) -> pd.DataFrame:
+        return self._2_digits_data
+
+    def get_sparse_data(self) -> pd.DataFrame:
+        return self._sparse_data
+
+    def has_data(self) -> bool:
+        return bool(self._data)
+
 
 def collect(
     http: CloudScraper,
