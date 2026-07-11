@@ -733,7 +733,7 @@ wheels = [
 ]
 
 [[package]]
-name = "vietnam-lottery-xsmb-analysis"
+name = "vietnam-lottery-analysis"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [

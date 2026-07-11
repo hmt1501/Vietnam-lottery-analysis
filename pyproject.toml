@@ -1,9 +1,9 @@
 [project]
-name = "vietnam-lottery-xsmb-analysis"
+name = "vietnam-lottery-analysis"
 version = "0.1.0"
-description = "Using GitHub Action to automatically fetch and analyze results of the Vietnam lottery daily."
+description = "Automatically fetch and analyze the Vietnam lottery (XSMB, XSMT, XSMN) daily using GitHub Actions."
 authors = [
-    {name = "Khiem Doan", email = "doankhiem.crazy@gmail.com"},
+    {name = "hmt1501", email = "hmt1501@users.noreply.github.com"},
 ]
 
 readme = "README.md"

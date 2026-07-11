@@ -1,6 +1,6 @@
-__author__ = 'Khiem Doan'
-__github__ = 'https://github.com/khiemdoan'
-__email__ = 'doankhiem.crazy@gmail.com'
+__author__ = 'hmt1501'
+__github__ = 'https://github.com/hmt1501'
+__email__ = 'hmt1501@users.noreply.github.com'
 
 """One-time historical back-fill for Central (XSMT) & Southern (XSMN) đài.
 
