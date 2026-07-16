@@ -944,5 +944,27 @@
     "prize6_3":5511,
     "prize7":0,
     "prize8":33
+  },
+  {
+    "date":"2026-07-16T00:00:00.000",
+    "province":"xsbdi",
+    "special":715419,
+    "prize1":9083,
+    "prize2":54531,
+    "prize3_1":98559,
+    "prize3_2":4854,
+    "prize4_1":26851,
+    "prize4_2":73967,
+    "prize4_3":71546,
+    "prize4_4":7664,
+    "prize4_5":99089,
+    "prize4_6":91077,
+    "prize4_7":822,
+    "prize5":5182,
+    "prize6_1":3790,
+    "prize6_2":3751,
+    "prize6_3":6381,
+    "prize7":361,
+    "prize8":34
   }
 ]
