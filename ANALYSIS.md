@@ -6,10 +6,10 @@ Loto (2-digit) frequency and special-prize delta charts for every Central (XSMT)
 ## Miền Nam (Southern)
 
 <details>
-  <summary><b>Xổ số TPHCM</b> (<code>xshcm</code>) — 87 kỳ</summary>
+  <summary><b>Xổ số TPHCM</b> (<code>xshcm</code>) — 88 kỳ</summary>
 
 
-  Loto count — Max: 26 · Min: 6 · Mean: 15.66 · Std: 4.4
+  Loto count — Max: 28 · Min: 6 · Mean: 15.84 · Std: 4.46
 
 
   ![Loto](images/xshcm/loto.jpg)
@@ -261,10 +261,10 @@ Loto (2-digit) frequency and special-prize delta charts for every Central (XSMT)
 </details>
 
 <details>
-  <summary><b>Xổ số Long An</b> (<code>xsla</code>) — 43 kỳ</summary>
+  <summary><b>Xổ số Long An</b> (<code>xsla</code>) — 44 kỳ</summary>
 
 
-  Loto count — Max: 14 · Min: 2 · Mean: 7.74 · Std: 2.68
+  Loto count — Max: 15 · Min: 2 · Mean: 7.92 · Std: 2.72
 
 
   ![Loto](images/xsla/loto.jpg)
@@ -278,10 +278,10 @@ Loto (2-digit) frequency and special-prize delta charts for every Central (XSMT)
 </details>
 
 <details>
-  <summary><b>Xổ số Bình Phước</b> (<code>xsbp</code>) — 43 kỳ</summary>
+  <summary><b>Xổ số Bình Phước</b> (<code>xsbp</code>) — 44 kỳ</summary>
 
 
-  Loto count — Max: 16 · Min: 2 · Mean: 7.74 · Std: 2.93
+  Loto count — Max: 16 · Min: 2 · Mean: 7.92 · Std: 2.95
 
 
   ![Loto](images/xsbp/loto.jpg)
@@ -295,10 +295,10 @@ Loto (2-digit) frequency and special-prize delta charts for every Central (XSMT)
 </details>
 
 <details>
-  <summary><b>Xổ số Hậu Giang</b> (<code>xshg</code>) — 43 kỳ</summary>
+  <summary><b>Xổ số Hậu Giang</b> (<code>xshg</code>) — 44 kỳ</summary>
 
 
-  Loto count — Max: 20 · Min: 2 · Mean: 7.74 · Std: 3.24
+  Loto count — Max: 20 · Min: 3 · Mean: 7.92 · Std: 3.26
 
 
   ![Loto](images/xshg/loto.jpg)
@@ -434,10 +434,10 @@ Loto (2-digit) frequency and special-prize delta charts for every Central (XSMT)
 </details>
 
 <details>
-  <summary><b>Xổ số Đà Nẵng</b> (<code>xsdna</code>) — 87 kỳ</summary>
+  <summary><b>Xổ số Đà Nẵng</b> (<code>xsdna</code>) — 88 kỳ</summary>
 
 
-  Loto count — Max: 26 · Min: 9 · Mean: 15.66 · Std: 3.7
+  Loto count — Max: 27 · Min: 9 · Mean: 15.84 · Std: 3.73
 
 
   ![Loto](images/xsdna/loto.jpg)
@@ -553,10 +553,10 @@ Loto (2-digit) frequency and special-prize delta charts for every Central (XSMT)
 </details>
 
 <details>
-  <summary><b>Xổ số Quảng Ngãi</b> (<code>xsqng</code>) — 43 kỳ</summary>
+  <summary><b>Xổ số Quảng Ngãi</b> (<code>xsqng</code>) — 44 kỳ</summary>
 
 
-  Loto count — Max: 15 · Min: 2 · Mean: 7.74 · Std: 2.72
+  Loto count — Max: 16 · Min: 2 · Mean: 7.92 · Std: 2.73
 
 
   ![Loto](images/xsqng/loto.jpg)
@@ -570,10 +570,10 @@ Loto (2-digit) frequency and special-prize delta charts for every Central (XSMT)
 </details>
 
 <details>
-  <summary><b>Xổ số Đắk Nông</b> (<code>xsdno</code>) — 43 kỳ</summary>
+  <summary><b>Xổ số Đắk Nông</b> (<code>xsdno</code>) — 44 kỳ</summary>
 
 
-  Loto count — Max: 16 · Min: 2 · Mean: 7.74 · Std: 2.72
+  Loto count — Max: 17 · Min: 2 · Mean: 7.92 · Std: 2.69
 
 
   ![Loto](images/xsdno/loto.jpg)
