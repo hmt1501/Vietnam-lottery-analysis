@@ -57,10 +57,10 @@ Loto (2-digit) frequency and special-prize delta charts for every Central (XSMT)
 </details>
 
 <details>
-  <summary><b>Xổ số Bến Tre</b> (<code>xsbtr</code>) — 47 kỳ</summary>
+  <summary><b>Xổ số Bến Tre</b> (<code>xsbtr</code>) — 48 kỳ</summary>
 
 
-  Loto count — Max: 16 · Min: 0 · Mean: 8.46 · Std: 3.52
+  Loto count — Max: 16 · Min: 0 · Mean: 8.64 · Std: 3.5
 
 
   ![Loto](images/xsbtr/loto.jpg)
@@ -74,10 +74,10 @@ Loto (2-digit) frequency and special-prize delta charts for every Central (XSMT)
 </details>
 
 <details>
-  <summary><b>Xổ số Vũng Tàu</b> (<code>xsvt</code>) — 47 kỳ</summary>
+  <summary><b>Xổ số Vũng Tàu</b> (<code>xsvt</code>) — 48 kỳ</summary>
 
 
-  Loto count — Max: 14 · Min: 3 · Mean: 8.46 · Std: 2.68
+  Loto count — Max: 15 · Min: 3 · Mean: 8.64 · Std: 2.74
 
 
   ![Loto](images/xsvt/loto.jpg)
@@ -91,10 +91,10 @@ Loto (2-digit) frequency and special-prize delta charts for every Central (XSMT)
 </details>
 
 <details>
-  <summary><b>Xổ số Bạc Liêu</b> (<code>xsbl</code>) — 47 kỳ</summary>
+  <summary><b>Xổ số Bạc Liêu</b> (<code>xsbl</code>) — 48 kỳ</summary>
 
 
-  Loto count — Max: 19 · Min: 1 · Mean: 8.46 · Std: 3.45
+  Loto count — Max: 19 · Min: 2 · Mean: 8.64 · Std: 3.44
 
 
   ![Loto](images/xsbl/loto.jpg)
@@ -400,10 +400,10 @@ Loto (2-digit) frequency and special-prize delta charts for every Central (XSMT)
 </details>
 
 <details>
-  <summary><b>Xổ số Đắk Lắk</b> (<code>xsdlk</code>) — 47 kỳ</summary>
+  <summary><b>Xổ số Đắk Lắk</b> (<code>xsdlk</code>) — 48 kỳ</summary>
 
 
-  Loto count — Max: 16 · Min: 2 · Mean: 8.46 · Std: 2.79
+  Loto count — Max: 16 · Min: 2 · Mean: 8.64 · Std: 2.75
 
 
   ![Loto](images/xsdlk/loto.jpg)
@@ -417,10 +417,10 @@ Loto (2-digit) frequency and special-prize delta charts for every Central (XSMT)
 </details>
 
 <details>
-  <summary><b>Xổ số Quảng Nam</b> (<code>xsqna</code>) — 47 kỳ</summary>
+  <summary><b>Xổ số Quảng Nam</b> (<code>xsqna</code>) — 48 kỳ</summary>
 
 
-  Loto count — Max: 14 · Min: 3 · Mean: 8.46 · Std: 2.43
+  Loto count — Max: 14 · Min: 3 · Mean: 8.64 · Std: 2.43
 
 
   ![Loto](images/xsqna/loto.jpg)
