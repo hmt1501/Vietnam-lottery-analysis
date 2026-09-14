@@ -6,10 +6,10 @@ Loto (2-digit) frequency and special-prize delta charts for every Central (XSMT)
 ## Miền Nam (Southern)
 
 <details>
-  <summary><b>Xổ số TPHCM</b> (<code>xshcm</code>) — 104 kỳ</summary>
+  <summary><b>Xổ số TPHCM</b> (<code>xshcm</code>) — 105 kỳ</summary>
 
 
-  Loto count — Max: 33 · Min: 8 · Mean: 18.72 · Std: 4.83
+  Loto count — Max: 33 · Min: 8 · Mean: 18.9 · Std: 4.82
 
 
   ![Loto](images/xshcm/loto.jpg)
@@ -23,10 +23,10 @@ Loto (2-digit) frequency and special-prize delta charts for every Central (XSMT)
 </details>
 
 <details>
-  <summary><b>Xổ số Đồng Tháp</b> (<code>xsdt</code>) — 52 kỳ</summary>
+  <summary><b>Xổ số Đồng Tháp</b> (<code>xsdt</code>) — 53 kỳ</summary>
 
 
-  Loto count — Max: 18 · Min: 3 · Mean: 9.36 · Std: 3.04
+  Loto count — Max: 20 · Min: 3 · Mean: 9.54 · Std: 3.13
 
 
   ![Loto](images/xsdt/loto.jpg)
@@ -40,10 +40,10 @@ Loto (2-digit) frequency and special-prize delta charts for every Central (XSMT)
 </details>
 
 <details>
-  <summary><b>Xổ số Cà Mau</b> (<code>xscm</code>) — 52 kỳ</summary>
+  <summary><b>Xổ số Cà Mau</b> (<code>xscm</code>) — 53 kỳ</summary>
 
 
-  Loto count — Max: 18 · Min: 3 · Mean: 9.36 · Std: 2.74
+  Loto count — Max: 19 · Min: 4 · Mean: 9.54 · Std: 2.76
 
 
   ![Loto](images/xscm/loto.jpg)
@@ -366,10 +366,10 @@ Loto (2-digit) frequency and special-prize delta charts for every Central (XSMT)
 ## Miền Trung (Central)
 
 <details>
-  <summary><b>Xổ số Phú Yên</b> (<code>xspy</code>) — 52 kỳ</summary>
+  <summary><b>Xổ số Phú Yên</b> (<code>xspy</code>) — 53 kỳ</summary>
 
 
-  Loto count — Max: 18 · Min: 2 · Mean: 9.36 · Std: 3.06
+  Loto count — Max: 18 · Min: 2 · Mean: 9.54 · Std: 3.08
 
 
   ![Loto](images/xspy/loto.jpg)
@@ -383,10 +383,10 @@ Loto (2-digit) frequency and special-prize delta charts for every Central (XSMT)
 </details>
 
 <details>
-  <summary><b>Xổ số Huế</b> (<code>xstth</code>) — 104 kỳ</summary>
+  <summary><b>Xổ số Huế</b> (<code>xstth</code>) — 105 kỳ</summary>
 
 
-  Loto count — Max: 29 · Min: 10 · Mean: 18.72 · Std: 4.2
+  Loto count — Max: 29 · Min: 10 · Mean: 18.9 · Std: 4.26
 
 
   ![Loto](images/xstth/loto.jpg)
