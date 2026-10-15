@@ -159,10 +159,10 @@ Loto (2-digit) frequency and special-prize delta charts for every Central (XSMT)
 </details>
 
 <details>
-  <summary><b>Xổ số Tây Ninh</b> (<code>xstn</code>) — 56 kỳ</summary>
+  <summary><b>Xổ số Tây Ninh</b> (<code>xstn</code>) — 57 kỳ</summary>
 
 
-  Loto count — Max: 20 · Min: 3 · Mean: 10.08 · Std: 3.22
+  Loto count — Max: 20 · Min: 3 · Mean: 10.26 · Std: 3.24
 
 
   ![Loto](images/xstn/loto.jpg)
@@ -176,10 +176,10 @@ Loto (2-digit) frequency and special-prize delta charts for every Central (XSMT)
 </details>
 
 <details>
-  <summary><b>Xổ số An Giang</b> (<code>xsag</code>) — 56 kỳ</summary>
+  <summary><b>Xổ số An Giang</b> (<code>xsag</code>) — 57 kỳ</summary>
 
 
-  Loto count — Max: 20 · Min: 4 · Mean: 10.08 · Std: 3.0
+  Loto count — Max: 20 · Min: 4 · Mean: 10.26 · Std: 3.03
 
 
   ![Loto](images/xsag/loto.jpg)
@@ -193,10 +193,10 @@ Loto (2-digit) frequency and special-prize delta charts for every Central (XSMT)
 </details>
 
 <details>
-  <summary><b>Xổ số Bình Thuận</b> (<code>xsbth</code>) — 56 kỳ</summary>
+  <summary><b>Xổ số Bình Thuận</b> (<code>xsbth</code>) — 57 kỳ</summary>
 
 
-  Loto count — Max: 17 · Min: 3 · Mean: 10.08 · Std: 3.22
+  Loto count — Max: 18 · Min: 3 · Mean: 10.26 · Std: 3.27
 
 
   ![Loto](images/xsbth/loto.jpg)
@@ -468,10 +468,10 @@ Loto (2-digit) frequency and special-prize delta charts for every Central (XSMT)
 </details>
 
 <details>
-  <summary><b>Xổ số Bình Định</b> (<code>xsbdi</code>) — 56 kỳ</summary>
+  <summary><b>Xổ số Bình Định</b> (<code>xsbdi</code>) — 57 kỳ</summary>
 
 
-  Loto count — Max: 20 · Min: 4 · Mean: 10.08 · Std: 3.22
+  Loto count — Max: 20 · Min: 4 · Mean: 10.26 · Std: 3.28
 
 
   ![Loto](images/xsbdi/loto.jpg)
@@ -485,10 +485,10 @@ Loto (2-digit) frequency and special-prize delta charts for every Central (XSMT)
 </details>
 
 <details>
-  <summary><b>Xổ số Quảng Trị</b> (<code>xsqt</code>) — 56 kỳ</summary>
+  <summary><b>Xổ số Quảng Trị</b> (<code>xsqt</code>) — 57 kỳ</summary>
 
 
-  Loto count — Max: 18 · Min: 3 · Mean: 10.08 · Std: 3.18
+  Loto count — Max: 18 · Min: 3 · Mean: 10.26 · Std: 3.27
 
 
   ![Loto](images/xsqt/loto.jpg)
@@ -502,10 +502,10 @@ Loto (2-digit) frequency and special-prize delta charts for every Central (XSMT)
 </details>
 
 <details>
-  <summary><b>Xổ số Quảng Bình</b> (<code>xsqb</code>) — 56 kỳ</summary>
+  <summary><b>Xổ số Quảng Bình</b> (<code>xsqb</code>) — 57 kỳ</summary>
 
 
-  Loto count — Max: 17 · Min: 4 · Mean: 10.08 · Std: 2.99
+  Loto count — Max: 17 · Min: 4 · Mean: 10.26 · Std: 3.02
 
 
   ![Loto](images/xsqb/loto.jpg)
