@@ -2434,5 +2434,26 @@
     "prize6_3":77,
     "prize7":26,
     "prize8":69
+  },
+  {
+    "date":"2026-10-28T00:00:00.000",
+    "special":98,
+    "prize1":88,
+    "prize2":53,
+    "prize3_1":10,
+    "prize3_2":92,
+    "prize4_1":62,
+    "prize4_2":17,
+    "prize4_3":86,
+    "prize4_4":6,
+    "prize4_5":94,
+    "prize4_6":4,
+    "prize4_7":60,
+    "prize5":52,
+    "prize6_1":94,
+    "prize6_2":47,
+    "prize6_3":62,
+    "prize7":69,
+    "prize8":65
   }
 ]
